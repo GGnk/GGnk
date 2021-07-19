@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 
-<p align="center" style="text-align: center; width: max-content"><img src="https://github-profile-trophy.vercel.app/?username=ggnk&title=Repositories,Commit,PullRequest" alt="ggnk" /></p>
+<p align="center" style="text-align: center; width: max-content"><img align="center"  src="https://github-profile-trophy.vercel.app/?username=ggnk&title=Repositories,Commit,PullRequest" alt="ggnk" /></p>
 
 - 💪 I like to write code
 - 🎉 I love playing computer games and swimming
@@ -20,6 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurlan-dev/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggnk&show_icons=true&locale=en&layout=compact&count_private=true" alt="ggnk" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggnk&show_icons=true&locale=en&layout=compact&count_private=true" alt="ggnk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggnk&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="ggnk" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggnk&show_icons=true&locale=en&count_private=true&hide=stars,issues" alt="ggnk" /></p>
